@@ -1,4 +1,4 @@
-package org.example.nivell2;
+package nivell2;
 
 import java.util.HashSet;
 import java.util.Set;

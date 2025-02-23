@@ -1,4 +1,4 @@
-package org.example.nivell1;
+package nivell1;
 
 
 
